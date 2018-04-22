@@ -1,0 +1,178 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.22)  22 APR 2018 17:38
+entering extended mode
+**./IA-rel.tex
+(IA-rel.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(IA-rel.aux)
+\openout1 = `IA-rel.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
+ [1
+
+{C:/Users/user/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1
+
+]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [2] [3] [4]
+Overfull \hbox (1.30624pt too wide) in paragraph at lines 300--308
+\OT1/cmr/m/n/10 239 9.1888 Kappa statis-tic 0.8164 Mean ab-so-lute er-ror 0.122
+8 Root mean squared
+ []
+
+
+Overfull \hbox (65.10844pt too wide) in paragraph at lines 329--337
+[]\OT1/cmr/m/n/10 Scheme: weka.classifiers.lazy.IBk -K 1 -W 0 -A "weka.core.nei
+ghboursearch.LinearNNSearch
+ []
+
+[5]
+Overfull \hbox (65.10844pt too wide) in paragraph at lines 377--385
+[]\OT1/cmr/m/n/10 Scheme: weka.classifiers.lazy.IBk -K 3 -W 0 -A "weka.core.nei
+ghboursearch.LinearNNSearch
+ []
+
+[6]
+Overfull \hbox (65.10844pt too wide) in paragraph at lines 425--433
+[]\OT1/cmr/m/n/10 Scheme: weka.classifiers.lazy.IBk -K 5 -W 0 -A "weka.core.nei
+ghboursearch.LinearNNSearch
+ []
+
+
+Overfull \hbox (1.30624pt too wide) in paragraph at lines 473--479
+\OT1/cmr/m/n/10 341 13.1103 Kappa statis-tic 0.7388 Mean ab-so-lute er-ror 0.18
+9 Root mean squared
+ []
+
+[7] [8
+
+] [9] [10
+
+] [11]
+Chapter 1.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ® in font cmbx12!
+
+Overfull \hbox (19.11198pt too wide) in paragraph at lines 564--580
+\OT1/cmr/m/n/10 In-puts Weights Thresh-old 0.07208537408174623 At-trib x-val 0.
+0030674627268826504
+ []
+
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ä in font cmbx12!
+Missing character: There is no ù in font cmbx12!
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ä in font cmbx12!
+Missing character: There is no ù in font cmbx12!
+[12
+
+]
+Overfull \hbox (71.30647pt too wide) in paragraph at lines 634--660
+[]\OT1/cmr/m/n/10 Sigmoid Node 0 In-puts Weights Thresh-old -0.729303312647522 
+Node 2 0.015319018150725288
+ []
+
+
+Overfull \hbox (42.97311pt too wide) in paragraph at lines 634--660
+\OT1/cmr/m/n/10 Node 3 4.910509240814651 Sig-moid Node 1 In-puts Weights Thresh
+-old 0.7297457517697482
+ []
+
+
+Overfull \hbox (25.05652pt too wide) in paragraph at lines 634--660
+\OT1/cmr/m/n/10 1.0396525478269123 At-trib x-val -6.875242413123358 At-trib y-v
+al -6.853941969110357
+ []
+
+
+Overfull \hbox (52.9731pt too wide) in paragraph at lines 714--740
+[]\OT1/cmr/m/n/10 Sigmoid Node 0 In-puts Weights Thresh-old 4.089387590132767 N
+ode 2 2.721145158478633
+ []
+
+
+Overfull \hbox (36.30641pt too wide) in paragraph at lines 714--740
+\OT1/cmr/m/n/10 Node 3 2.73825579705843 Sig-moid Node 1 In-puts Weights Thresh-
+old -4.056546722562926
+ []
+
+
+Overfull \hbox (28.3899pt too wide) in paragraph at lines 714--740
+\OT1/cmr/m/n/10 1.5900863645039536 At-trib x-val 0.7307338769046867 At-trib y-v
+al 0.7083982637469124
+ []
+
+[13] [14]
+Chapter 2.
+[15
+
+] [16
+
+] [17] (IA-rel.aux) ) 
+Here is how much of TeX's memory you used:
+ 255 strings out of 493305
+ 2786 string characters out of 3130237
+ 57825 words of memory out of 3000000
+ 3882 multiletter control sequences out of 15000+200000
+ 8500 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,17p,273b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on IA-rel.pdf (18 pages, 82357 bytes).
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
